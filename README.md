@@ -1,0 +1,1 @@
+Removes PDF watermarks
